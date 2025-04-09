@@ -7,7 +7,7 @@
 
 **ROLL NO : 212223230048**
 
-**DEPARTMENT:AIML**
+**DEPARTMENT : AIDS**
 
 ## Aim
 
@@ -146,7 +146,8 @@ void IRPAIR()
 
 ## DETECTED:
 
-![WhatsApp Image 2025-04-09 at 18 22 38_f3a0548c](https://github.com/user-attachments/assets/454612af-ef96-4782-9db2-1059e60ab7bf)
+![WhatsApp Image 2025-04-09 at 21 35 55_2318c248](https://github.com/user-attachments/assets/570b2d36-0c44-405a-b54e-0701a8ec64e0)
+
 
 
 ## Result
